@@ -1,0 +1,4 @@
+export const CHECK_LOGIN_DATA = "CHECK_LOGIN_DATA";
+
+
+
